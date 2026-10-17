@@ -9,6 +9,6 @@ Unofficial Windows launcher for when **Trials Rising** will not start through St
 
 No installer. Sudo is optional — it can launch as administrator directly. It does not modify game files or skip owning the game.
 
-**Windows warning:** the EXE is unsigned and launches the game as administrator, so Windows Defender or SmartScreen may warn about or block it. Compare your download with `SHA256SUMS.txt` on the release to confirm it is untouched.
+**Windows warning:** the EXE is unsigned and launches the game as administrator, so Windows Defender or SmartScreen may warn about or block it. Compare your download with `SHA256SUMS.txt` on the release to confirm it is untouched, or see the [VirusTotal report](https://www.virustotal.com/gui/file/7c4b1425798fc212f0c5737aeb398a52a535122a6dbecbf0ef0043eb73cd16da).
 
 64-bit Windows and .NET Framework 4.8. Not affiliated with Ubisoft. [Feedback](https://github.com/TROJAN29/trials-rising-launcher/issues)
